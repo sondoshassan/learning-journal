@@ -10,6 +10,7 @@ we have many extension of files, such as:
 - **file.exe** like a program.
 - **file.txt**  a plain text file.
 - **file.png, file.gif, file.jpg** an image.
+
 Also, I learned how I can make directory name with space, we can use: 
 - *Quotes* 'directory name'
 - *backslash* directory\name

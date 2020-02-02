@@ -1,10 +1,13 @@
 ## Welcome to GitHub Pages
 ## Growth mindset
+#### Sondos hassan
 ### how to make yourself growth mindest
 1. I always say for my self **keep try**
 2. repair your mistakes
 3. work hard to *success*
-#### Sondos hassan
+ 
+ you can read more about [Gethub] (https://guides.github.com/features/pages/)
+
 
 
 You can use the [editor on GitHub](https://github.com/sondoshassan/sondoshassan.gethub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

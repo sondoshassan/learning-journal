@@ -6,7 +6,7 @@
 2. repair your mistakes
 3. work hard to *success*
  
- you can read more about [Gethub] (https://guides.github.com/features/pages/)
+ you can read more about [Gethub](https://guides.github.com/features/pages/)
 
 
 

@@ -22,9 +22,7 @@ we use it to goupe the text or elements in ablock, so it makes easy to follow th
 it's like div but it's inline, but we can use it to control the apperance of text in these element in CSS.
 - `<iframe>`
 to cut the window and put it on your page.
-`<iframe
-src="http://maps.google.co.uk/maps?q=moma+new+york
-&amp;output=embed"
+`<iframe src="http://maps.google.co.uk/maps?q=moma+new+york &amp;output=embed"
 width="450"
 height="350"
 frameborder="0"

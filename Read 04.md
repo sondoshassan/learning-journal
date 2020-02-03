@@ -30,14 +30,19 @@ height="350"
 frameborder="0"
 scrolling="no">
 </iframe>`
+
 note: scrolling and frameborder will not be supported in Html5.
+
 - `<meta>`
 contains information about your web page, it doesn't have a close tag but it has an attribute. we write it in <head>.
+  
+  
 # chapter 17
 ----------------------------------------------------------------------------------------------------------------------
 ## these elements like <div> but it is more specialist.
 - Headers & Footers
 `<header>` appear on the top but <footer> appear on the bottom.
+  
 - `<nav>`
 we use the `<nav>` for links.
 - `<article>`
@@ -50,7 +55,8 @@ to group `<h>` together.
 - figures
 `<figure>` `<figcaption>`
 we use `<figure>` to contain any content with refrenced.
-`<figcaotion>` to describe the content of the `<figure>`.
+`<figcaotion>`  to describe the content of the          `<figure>`.
+
 ---------------------------------------------------------------------------------------------------------------------------
 the new thing we have in Html5 is `<a>`, by this element I can make a link on my page.
 

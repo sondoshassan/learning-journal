@@ -27,6 +27,7 @@ we can calling function like this:
 `function_name('');`
 how I can make a function:
 function area(w,h){
-return w*h;}
+var area = w*h;
+return area;}
 
 

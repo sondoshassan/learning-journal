@@ -4,7 +4,7 @@
 2. modify content
 3. programe rules
 4. react to events
-# Revision about HTML and CSS
+## Revision about HTML and CSS
 Html elements : '<p class="text">any thing</p>'
 CSS rules: '.text { color: red};'
 you need for writing a script to make a flowchart, which is a guide to do anything.

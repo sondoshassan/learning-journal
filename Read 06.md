@@ -1,4 +1,4 @@
-**write code in javascript and linked it with Html [Link](https://sondoshassan.github.io/practice-javascript/index)**
+**write code in javascript and linked it with Html [Link](https://sondoshassan.github.io/practice-javascript/add-content.html)**
 # javascript
 - write code in javascript file
 - connect javascript with html code by using `<script src="------"></script>` write this code at the end of body

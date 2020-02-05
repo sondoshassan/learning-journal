@@ -9,7 +9,12 @@ to compare the value in script. the result of this will be boolean.
 6. less than <
 7. greater than or equal
 8. less than or equal
+## logical operator
 **logical operator to compare the results of more than one comparison operator**
+1. && and
+2. || or
+3. ! not
+
 ## for loop
 I use it to repeat an operation for specific number of times.
 `for (var i = 0; i < 10; i++){ document.write (i) }`

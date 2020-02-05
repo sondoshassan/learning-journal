@@ -12,7 +12,7 @@ to compare the value in script. the result of this will be boolean.
 ## logical operator
 **logical operator to compare the results of more than one comparison operator**
 1. && and
-2. || or
+2. `||` or
 3. ! not
 
 ## for loop

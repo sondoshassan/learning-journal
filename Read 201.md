@@ -16,7 +16,7 @@ Small websites are often written just using HTML and CSS.
 large website use a content management system (CMS), blogging tools, or e-commerce software.
 
 **when visit your web, the browser will first connect to a domain name system (DNS) server**
-the structure has the main heading and maybe have also subheading like an article in the newspaper.
+the structure has the main heading and maybe have also subheading like *an article in the newspaper*.
 
 ## Html elements 
 the elements have 2 tags opining tag and close tag.
@@ -62,6 +62,7 @@ attribute with meta: p191-192
  if you need to use a chracter in web use what are termed "escape" characters also known as escape codes or
 entity references).
 For example, to write a left angled bracket, you can use either &lt; or &#60;.p194
+
 ## tags are in Html5 just
 - `<header>`
 - `<footer>`
@@ -73,6 +74,7 @@ For example, to write a left angled bracket, you can use either &lt; or &#60;.p1
 - `<figure>` includes: Images, Videos, Graphs ,Diagrams ,Code samples and Text that supports the main
 body of an article. also, it contains `<figcaption>` which provide a text element decription for the 
 content of `<figure>`.
+
 ## help our browser to understand Html5
 need to use a simple JavaScript known as the HTML5 shiv or HTML5 shim.
 using additional comment `<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -92,6 +94,13 @@ which page before considering how the the page should look.
 added last and enhances the usability of the page or the experience of
 interacting with the site.
 link javascript with Html by using `<script>` tag
+
+**using objects and methods in Javascript**
+document.write ('good afternoon');
+object: document
+parameters: good afternoon
+
+
 
 
 
